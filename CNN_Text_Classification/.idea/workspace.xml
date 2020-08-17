@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88e99031-f19f-4134-8a93-a64298bdb322" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gALkBzW46Eo7b9llfCh4WVxgSe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\NLP\CNN_Text_Classifier\Data\WordVector" />
+      <recent name="D:\Project\NLP\CNN_Text_Classifier\Data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Classifier">
+    <configuration name="Classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CNN_Text_Classifier" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classifier.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset_creator" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CNN_Text_Classifier" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Software\Anaconda\envs\DL\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/dataset_creator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataset_loader" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CNN_Text_Classifier" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/dataset_loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="load_word_vector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CNN_Text_Classifier" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data/WordVector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data/WordVector/load_word_vector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.dataset_creator" />
+      <item itemvalue="Python.load_word_vector" />
+      <item itemvalue="Python.dataset_loader" />
+      <item itemvalue="Python.Classifier" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Classifier" />
+        <item itemvalue="Python.dataset_loader" />
+        <item itemvalue="Python.load_word_vector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88e99031-f19f-4134-8a93-a64298bdb322" name="Default Changelist" comment="" />
+      <created>1597552590031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597552590031</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597555802149">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="96" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1597555802149" />
+    <state x="300" y="203" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597561501381">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="300" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1597561501381" />
+    <state x="371" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597581266573">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="371" y="147" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1597581266573" />
+    <state x="422" y="156" key="FileChooserDialogImpl" timestamp="1597555799035">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="422" y="156" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1597555799035" />
+    <state width="1260" height="252" key="GridCell.Tab.0.bottom" timestamp="1597663956452">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1260" height="252" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597663956452" />
+    <state width="1260" height="252" key="GridCell.Tab.0.center" timestamp="1597663956452">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1260" height="252" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1597663956452" />
+    <state width="1260" height="252" key="GridCell.Tab.0.left" timestamp="1597663956452">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1260" height="252" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1597663956452" />
+    <state width="1260" height="252" key="GridCell.Tab.0.right" timestamp="1597663956452">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1260" height="252" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1597663956452" />
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom" timestamp="1597663956452">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1260" height="252" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1597663956452" />
+    <state width="1260" height="252" key="GridCell.Tab.1.center" timestamp="1597663956452">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1260" height="252" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1597663956452" />
+    <state width="1260" height="252" key="GridCell.Tab.1.left" timestamp="1597663956452">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1260" height="252" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1597663956452" />
+    <state width="1260" height="252" key="GridCell.Tab.1.right" timestamp="1597663956452">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1260" height="252" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1597663956452" />
+    <state x="324" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1597646837173">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="324" y="224" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1597646837173" />
+    <state x="303" y="122" width="672" height="678" key="search.everywhere.popup" timestamp="1597557933023">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="303" y="122" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1597557933023" />
+  </component>
+</project>
